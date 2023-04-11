@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SWC-Assignment-2/static/css/main.f7af5e1c.css",
+    "main.js": "/SWC-Assignment-2/static/js/main.d64883a5.js",
+    "index.html": "/SWC-Assignment-2/index.html",
+    "main.f7af5e1c.css.map": "/SWC-Assignment-2/static/css/main.f7af5e1c.css.map",
+    "main.d64883a5.js.map": "/SWC-Assignment-2/static/js/main.d64883a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7af5e1c.css",
+    "static/js/main.d64883a5.js"
+  ]
+}
